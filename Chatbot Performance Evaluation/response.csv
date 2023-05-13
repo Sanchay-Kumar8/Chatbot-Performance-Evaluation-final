@@ -1,0 +1,25 @@
+response,labels
+"Hello, thanks for asking",greeting
+Good to see you again,greeting
+"Hi there, how can I help?",greeting
+See you!,goodbye
+Have a nice day,goodbye
+Bye! Come back again soon.,goodbye
+Happy to help!,thanks
+Any time!,thanks
+My pleasure,thanks
+"Sorry, can't understand you",noanswer
+Please give me more info,noanswer
+Not sure I understand,noanswer
+"I can guide you through Adverse drug reaction list, Blood pressure tracking, Hospitals and Pharmacies",options
+"Offering support for Adverse drug reaction, Blood pressure, Hospitals and Pharmacies",options
+Navigating to Adverse drug reaction module,adverse_drug
+Navigating to Blood Pressure module,blood_pressure
+Please provide Patient ID,blood_pressure_search
+Patient ID?,blood_pressure_search
+Loading Blood pressure result for Patient,search_blood_pressure_by_patient_id
+Please provide pharmacy name,pharmacy_search
+Loading pharmacy details,search_pharmacy_by_name
+Please provide hospital name or location,hospital_search
+Please provide hospital type,search_hospital_by_params
+Loading hospital details,search_hospital_by_type
